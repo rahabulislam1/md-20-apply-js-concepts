@@ -4,7 +4,6 @@ function oddEvenCheck(num) {
         return 'Even';
     }
     else if (num % 2 == 1) {
-        // result = 'Odd';
         return 'Odd';
     }
 }
